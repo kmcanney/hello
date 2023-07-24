@@ -1,3 +1,3 @@
 # Readme
 
-This is a test repo to verify SSH access.
+This is a test repo to verify SSH configuration.
